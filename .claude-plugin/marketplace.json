@@ -1,0 +1,11 @@
+{
+  "name": "yuci",
+  "owner": { "name": "yucicc" },
+  "plugins": [
+    {
+      "name": "token-meter",
+      "source": "./.claude/skills/token-meter",
+      "description": "显示 token 用量：每轮用了多少、本次对话累计、上下文占用和订阅额度"
+    }
+  ]
+}
